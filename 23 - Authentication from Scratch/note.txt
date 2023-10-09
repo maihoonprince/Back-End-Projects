@@ -1,0 +1,12 @@
+Authentication : It is the process of verifying the identity of a user or system attempting to access a web application or service. 
+It ensures that the user is who they claim to be before granting access to protected resources. 
+Authentication is a fundamental aspect of web security and privacy.
+
+Patterns:
+1. Statefull : which maintains state or data or serverside.
+2. Stateless : which has no state.
+
+
+How to transfer UID ?
+ciikies, response, headers(we use header most)
+
